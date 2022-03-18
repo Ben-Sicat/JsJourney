@@ -1,0 +1,23 @@
+body{
+    background: white;
+    padding: 20px;
+    font-weight: bold;
+}
+p{
+    width: 200px;
+    display: block;
+}
+button{
+    background:white;
+    color: black;
+    margin-top: 10px;
+    border: 1px solid black;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 20px;
+    font-weight: bold;
+}
+#error{
+    color: red;
+     font-weight: 200;
+}
